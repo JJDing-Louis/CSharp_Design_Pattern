@@ -1,0 +1,7 @@
+D:\Personal-Work-Space\C# Project\Design_Pattern\Facade_Pattern\Facade_Pattern\bin\Debug\Facade_Pattern.exe.config
+D:\Personal-Work-Space\C# Project\Design_Pattern\Facade_Pattern\Facade_Pattern\bin\Debug\Facade_Pattern.exe
+D:\Personal-Work-Space\C# Project\Design_Pattern\Facade_Pattern\Facade_Pattern\bin\Debug\Facade_Pattern.pdb
+D:\Personal-Work-Space\C# Project\Design_Pattern\Facade_Pattern\Facade_Pattern\obj\Debug\Facade_Pattern.csproj.AssemblyReference.cache
+D:\Personal-Work-Space\C# Project\Design_Pattern\Facade_Pattern\Facade_Pattern\obj\Debug\Facade_Pattern.csproj.CoreCompileInputs.cache
+D:\Personal-Work-Space\C# Project\Design_Pattern\Facade_Pattern\Facade_Pattern\obj\Debug\Facade_Pattern.exe
+D:\Personal-Work-Space\C# Project\Design_Pattern\Facade_Pattern\Facade_Pattern\obj\Debug\Facade_Pattern.pdb

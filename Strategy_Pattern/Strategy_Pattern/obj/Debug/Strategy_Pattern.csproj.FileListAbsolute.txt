@@ -1,0 +1,7 @@
+D:\Personal-Work-Space\C# Project\Design_Pattern\Strategy_Pattern\Strategy_Pattern\bin\Debug\Strategy_Pattern.exe.config
+D:\Personal-Work-Space\C# Project\Design_Pattern\Strategy_Pattern\Strategy_Pattern\bin\Debug\Strategy_Pattern.exe
+D:\Personal-Work-Space\C# Project\Design_Pattern\Strategy_Pattern\Strategy_Pattern\bin\Debug\Strategy_Pattern.pdb
+D:\Personal-Work-Space\C# Project\Design_Pattern\Strategy_Pattern\Strategy_Pattern\obj\Debug\Strategy_Pattern.csproj.AssemblyReference.cache
+D:\Personal-Work-Space\C# Project\Design_Pattern\Strategy_Pattern\Strategy_Pattern\obj\Debug\Strategy_Pattern.csproj.CoreCompileInputs.cache
+D:\Personal-Work-Space\C# Project\Design_Pattern\Strategy_Pattern\Strategy_Pattern\obj\Debug\Strategy_Pattern.exe
+D:\Personal-Work-Space\C# Project\Design_Pattern\Strategy_Pattern\Strategy_Pattern\obj\Debug\Strategy_Pattern.pdb
