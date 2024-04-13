@@ -9,39 +9,32 @@ namespace Singleton
     public class Singleton
     {
         private static Singleton instance;
-        private static object m_objLock = new object();
+        private static readonly object lockObject = new object();
 
-        //私有的建構式讓別人不能創造
-        private Singleton()
-        { }
+        private Singleton() { }
 
-        public static Singleton getInstance()
+        public static Singleton Instance
         {
-            if (instance == null)
+            get
             {
-                lock (m_objLock)
+                // 使用雙重檢查加鎖來確保線程安全
+                if (instance == null)
                 {
-                    if (instance == null)
+                    lock (lockObject)
                     {
-                        instance = new Singleton();
+                        if (instance == null)
+                        {
+                            instance = new Singleton();
+                        }
                     }
                 }
+                return instance;
             }
-            return instance;
         }
 
-        ////因為整個系統都要存取這個類別，很可能有多個process或thread同時存取
-        ////為了讓線程安全添加synchronized在多線程下確保物件唯一性
-        //public static Singleton getInstance()
-        //{
-        //    if (instance == null)
-        //    {
-        //        lock (m_objLock)
-        //        {
-        //            instance = new Singleton();
-        //        }
-        //    }
-        //    return instance;
-        //}
+        public void SomeMethod()
+        {
+            Console.WriteLine("Executing some method of the singleton instance.");
+        }
     }
 }

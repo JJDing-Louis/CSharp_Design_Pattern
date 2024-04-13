@@ -5,3 +5,10 @@
 *.vsidx
 /Singleton/Singleton/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 /Singleton/Singleton/obj/Debug/Singleton.csproj.AssemblyReference.cache
+*.suo
+*.json
+*.exe
+*.config
+*.pdb
+*.cache
+*.txt
