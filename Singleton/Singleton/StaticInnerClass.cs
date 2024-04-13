@@ -8,7 +8,8 @@ namespace Singleton
 {
     public enum EnumSingleton
     {
-        INSTANCE;
+        INSTANCE
+    }
 
 
     public void doSomething()
