@@ -1,0 +1,7 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+*.vsidx
+/Singleton/Singleton/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Singleton/Singleton/obj/Debug/Singleton.csproj.AssemblyReference.cache
